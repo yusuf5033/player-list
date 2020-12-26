@@ -1,5 +1,9 @@
 # students
 
+## Demo index.html - Download and open in browser
+
+https://github.com/yusuf5033/player-list/blob/master/public/index.html
+
 ## Project setup
 ```
 npm install
